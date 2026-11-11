@@ -1,0 +1,20 @@
+{
+  "name": "عافية | رفيق الإقلاع",
+  "short_name": "عافية",
+  "description": "رفيق عربي مجاني للإقلاع عن التدخين والنيكوتين",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f9f6",
+  "theme_color": "#08765e",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
